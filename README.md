@@ -53,7 +53,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2F&label=Visitantes&labelColor=%23f9e64f&countColor=%23007bff&style=plastic "Total de Visitas")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Fãs&labelColor=f9e64f&color=007bff& "Total de Seguidores")
+![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Seguidores&labelColor=f9e64f&color=007bff& "Total de Seguidores")
 &nbsp;
 ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=plastic&label=Observadores&labelColor=f9e64f&color=007bff& "Total de Observadores")
 &nbsp;
