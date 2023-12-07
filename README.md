@@ -1,66 +1,26 @@
-<!-- Title -->
-#
+<!-- Título -->
+# Usando Linux Dentro do Windows
 
-***Conteúdo:***
+***Conteúdo do Módulo:***
 
-<!-- Table of Contents -->
-<!-- ## Table de Conteúdos -->
+* [ ] [O Que é e Como Instalar o WSL.](https://github.com/Devsgeeknerd/cla-o-que-com-ins-wsl-usa-lin-den-win-win-fun-par-des-bas) &#128679;
+* [ ] [Escolhendo a Distribuição e Instalando.](https://github.com/Devsgeeknerd/cla-esc-dis-ins-usa-lin-den-win-win-fun-par-des-bas) &#128679;
+* [ ] [Usando o WSL Com um Exemplo de Servidor HTTP.](https://github.com/Devsgeeknerd/cla-usa-wsl-com-exe-ser-htt-usa-lin-den-win-win-fun-par-des-bas) &#128679;
+* [ ] [Conhecendo o Arquivo de Host do Windows.](https://github.com/Devsgeeknerd/cla-con-arq-hos-win-usa-lin-den-win-win-fun-par-des-bas) &#128679;
 
-<!-- - [Vista por Cima](#vista-por-cima) -->
-  <!-- - [Foto da Tela](#foto-da-tela) -->
-  <!-- - [Links](#links) -->
-<!-- - [Meu Processo](#meu-processo) -->
-  <!-- - [Construido com](#construido-com) -->
-  <!-- - [O que Aprendi](#o-que-aprendi) -->
-  <!-- - [Desenvolvimento Continuo](#desenvolvimento-continuo) -->
-  <!-- - [Recursos Uteis](#recursos-uteis) -->
-<!-- - [Autores](#autores) -->
-<!-- - [Agradecimentos](#agradecimentos) -->
-<!-- - [Informações](#informações) -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- Overview-->
-<!-- ## Vista por Cima -->
-
-<!-- Screenshot -->
-<!-- ### Foto da Tela -->
-
-<!-- Links -->
-<!-- ### Links -->
-
-<!-- My Process -->
-<!-- ## Meu Processo -->
-
-<!-- Built with -->
-<!-- ### Construido com -->
-
-<!-- What I Learned -->
-<!-- ### O que Aprendi -->
-
-<!-- Continued Development -->
-<!-- ### Desenvolvimento Continuo -->
-
-<!-- Useful Resources -->
-<!-- ### Recursos Uteis -->
-
-<!-- Authors -->
-<!-- ## Autores -->
-
-<!-- Acknowledgments -->
-<!-- ## Agradecimentos -->
-
-<!-- Information -->
-## Informações
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2F&label=Visitantes&labelColor=%23f9e64f&countColor=%23007bff&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-usa-lin-den-win-win-fun-par-des-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Seguidores&labelColor=f9e64f&color=007bff& "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=plastic&label=Observadores&labelColor=f9e64f&color=007bff& "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic&label=Estrelas&labelColor=f9e64f&color=007bff& "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=plastic&label=Bifurcações&labelColor=f9e64f&color=007bff& "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![code size](https://img.shields.io/github/languages/code-size/Devsgeeknerd/?style=plastic&label=Tamanho&labelColor=f9e64f&color=007bff& "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/?style=plastic&label=Licença&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
